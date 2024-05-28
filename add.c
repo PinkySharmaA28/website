@@ -1,5 +1,5 @@
 #include <stdio.h> 
-  
+  author pinky
 int main() 
 { 
     int A, B, sum = 0; 
